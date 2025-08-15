@@ -45,7 +45,7 @@
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-j-ramonfernandez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuPerfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/j-ramonfernandez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuPerfil)
 [![Gmail](https://img.shields.io/badge/Email-juanramonfernandez99@gmail.com-red?style=flat&logo=gmail)](mailto:juan@example.com)
 
 ---
