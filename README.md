@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ramon_Fernandez Mojica-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuPerfil)
-[![Gmail](https://img.shields.io/badge/Email-juan@example.com-red?style=flat&logo=gmail)](mailto:juan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ramon_Fernandez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuPerfil)
+[![Gmail](https://img.shields.io/badge/Email-juanramonfernandez99@gmail.com-red?style=flat&logo=gmail)](mailto:juan@example.com)
 
 ---
 ⭐️ _"El mejor código es el que resuelve un problema de forma simple, clara y escalable."_  
