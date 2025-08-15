@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/7P1d4Nl.gif" width="100%" alt="Futuristic Banner">
 
 <h1 align="center">🚀 Juan Ramon Fernandez</h1>
-<h3 align="center">⚡ Developer | Architect of Solutions | Tech Enthusiast ⚡</h3>
+<h3 align="center">⚡ Developer Developer| Tech Enthusiast ⚡</h3>
 
 ---
 
