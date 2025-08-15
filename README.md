@@ -1,5 +1,5 @@
 <!-- Banner futurista -->
-<img src="https://i.imgur.com/7P1d4Nl.gif" width="100%" alt="Futuristic Banner">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh0NzN5cm1pbmN1NHg1ZnVmdGsyN3B6MHBhOW91b2JwZjZkbXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQyuY2yERcncEJf3vY/giphy.gif" alt="Futuristic Banner">
 
 <h1 align="center">🚀 Juan Ramon Fernandez</h1>
 <h3 align="center">⚡ Developer Developer| Tech Enthusiast ⚡</h3>
