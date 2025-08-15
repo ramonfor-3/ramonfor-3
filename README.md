@@ -1,8 +1,5 @@
-<!-- Banner futurista -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh0NzN5cm1pbmN1NHg1ZnVmdGsyN3B6MHBhOW91b2JwZjZkbXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQyuY2yERcncEJf3vY/giphy.gif" alt="Futuristic Banner">
-
 <h1 align="center">🚀 Juan Ramon Fernandez</h1>
-<h3 align="center">⚡ Developer Developer| Tech Enthusiast ⚡</h3>
+<h3 align="center">⚡ Developer Developer | Tech Enthusiast ⚡</h3>
 
 ---
 
@@ -16,8 +13,10 @@ Mindset: Innovar | Optimizar | Escalar
 Future Goal: Crear plataformas que transformen la manera en que vivimos y trabajamos
 
 
-🛠️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,ts,html,css,react,nodejs,python,java,git,docker,redis,mysql,postgres,github,linux" /> </p>
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,ts,html,css,react,nodejs,python,java,git,docker,redis,mysql,postgres,github,linux" />
+</p>
 
 🛰️ Futuristic Vision
 
